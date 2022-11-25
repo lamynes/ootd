@@ -41,7 +41,7 @@
       }
     ],
     "imageResize": true,
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "uniqCompNum": 5,
     "versionPublish": "5.6.11",
     "screenshot": "screenshot.png"
@@ -562,6 +562,9 @@
             },
             ".mbr-section-subtitle": {
               "text-align": "left"
+            },
+            ".mbr-section-title": {
+              "color": "#232323"
             }
           },
           "_name": "content4",
