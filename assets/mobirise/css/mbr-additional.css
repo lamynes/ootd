@@ -1143,8 +1143,105 @@ a {
 .cid-tocYUPCjjd .mbr-section-title {
   color: #232323;
 }
+.cid-tooxIKmdiJ {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-image: url("../../../assets/images/mbr-1920x960.png");
+}
+.cid-tooxIKmdiJ .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tooxIKmdiJ .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tooxIKmdiJ .team-card {
+  margin-bottom: 2rem;
+  transition: all 0.3s;
+}
+.cid-tooxIKmdiJ .team-card:hover {
+  transform: translateY(-10px);
+}
+.cid-tooxIKmdiJ .card-wrap {
+  background: #ffffff;
+  border-radius: 4px;
+}
+@media (max-width: 991px) {
+  .cid-tooxIKmdiJ .card-wrap {
+    margin-bottom: 2rem;
+  }
+}
+.cid-tooxIKmdiJ .card-wrap .image-wrap img {
+  width: 100%;
+}
+@media (min-width: 768px) {
+  .cid-tooxIKmdiJ .card-wrap .content-wrap {
+    padding: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-tooxIKmdiJ .card-wrap .content-wrap {
+    padding: 1rem;
+  }
+}
+.cid-tooxIKmdiJ .social-row {
+  text-align: center;
+}
+.cid-tooxIKmdiJ .social-row .soc-item {
+  display: inline-block;
+  text-align: center;
+  border-radius: 50%;
+  margin-right: 0.6rem;
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  border: 2px solid #6592e6;
+  transition: all 0.3s;
+}
+.cid-tooxIKmdiJ .social-row .soc-item .mbr-iconfont {
+  transition: all 0.3s;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  color: #6592e6;
+  font-size: 1.5rem;
+}
+.cid-tooxIKmdiJ .social-row .soc-item:hover {
+  background-color: #6592e6;
+}
+.cid-tooxIKmdiJ .social-row .soc-item:hover .mbr-iconfont {
+  color: #ffffff;
+}
+.cid-tooxIKmdiJ .card-text,
+.cid-tooxIKmdiJ .mbr-section-btn,
+.cid-tooxIKmdiJ .social-row {
+  text-align: left;
+  color: #353535;
+}
+.cid-tooxIKmdiJ .mbr-section-title {
+  color: #ffffff;
+}
+.cid-tooxIKmdiJ .mbr-section-subtitle {
+  text-align: left;
+  color: #ffffff;
+}
+.cid-tooxIKmdiJ h1,
+.cid-tooxIKmdiJ h2,
+.cid-tooxIKmdiJ h3,
+.cid-tooxIKmdiJ h4,
+.cid-tooxIKmdiJ h5 {
+  text-shadow: 6px 6px 10px #000000;
+}
+.cid-tooxIKmdiJ .card-title,
+.cid-tooxIKmdiJ .social-row {
+  color: #000000;
+}
 .cid-tod5crxjdN {
-  padding-top: 8rem;
+  padding-top: 5rem;
   padding-bottom: 9rem;
   background-color: #ffffff;
 }
